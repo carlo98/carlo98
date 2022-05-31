@@ -1,6 +1,6 @@
-### 👋🏼 Hi everyone, I'm Carlo 
+### 👋🏼 Hi everyone, I'm Carlo
 
-I'm a master student at the University of Bologna and a member of DRAFT PoliTo.
+I'm a master's student at the University of Bologna and a member of DRAFT PoliTo.
 
 - 💻 I'm currently studying Artificial Intelligence
 - 📅 I'm working on Machine Learning for Constraint Programming for my thesis and on Precision Landing with RL for fun!
